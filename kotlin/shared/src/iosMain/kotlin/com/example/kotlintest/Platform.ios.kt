@@ -1,4 +1,4 @@
-package com.example.kotlinproject
+package com.example.kotlintest
 
 import platform.UIKit.UIDevice
 

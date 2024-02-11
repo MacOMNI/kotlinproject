@@ -34,7 +34,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.example.kotlinproject"
+    namespace = "com.example.kotlintest"
     compileSdk = 34
     defaultConfig {
         minSdk = 24

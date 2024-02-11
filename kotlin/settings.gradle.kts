@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KotlinProject"
+rootProject.name = "kotlintest"
 include(":androidApp")
 include(":shared")

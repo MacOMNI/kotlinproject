@@ -4,10 +4,10 @@ plugins {
 }
 
 android {
-    namespace = "com.example.kotlinproject.android"
+    namespace = "com.example.kotlintest.android"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.example.kotlinproject.android"
+        applicationId = "com.example.kotlintest.android"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
